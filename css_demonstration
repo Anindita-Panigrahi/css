@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Page1</title>
+</head>
+<link rel="stylesheet" type="text/css"
+href="simple.css"/>
+<body>
+    <div class="img">
+        <div >
+        <h1 class="heading">Welcome to CSS Example</h1>
+        <p class="inside">This is a simple demonstration of simple css webpage</p>
+        </div>
+    </div>
+</body>
+</html>
