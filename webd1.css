@@ -1,0 +1,78 @@
+.body{
+    background-size: cover;
+    width: auto;
+}
+.header{
+    height: 50px;
+    top: 0px;
+    list-style: none;
+    padding-top: 15px;   
+      
+    
+}
+.header a{
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    /* transition: 0.4s ease-in-out; */
+    padding: 20px;
+    font-size: small;
+}
+.footer{
+    height: 30px;
+   
+    padding: 10px;
+    /* transition: 0.4s ease-in-out; */
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header, .footer{
+   
+    height: min-content;
+    background-color: rgb(46, 46, 46);
+    color: white;
+}
+.img{
+    width:auto;
+    height: 160px;
+    background-image: url(onlysky.jpeg);
+}
+.heading{
+    
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+.inside{
+    text-align: center;
+    color: white;
+    font-size:small ;
+}
+.learn{
+    position: relative;
+    position: absolute;
+    left: 47%;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    
+}
+.content{
+    text-align: center;
+    
+}
+.pad{
+    padding: auto;
+    text-align: center;
+}
+.list li{
+    
+    display: inline;
+    padding: 20px;
+    text-align: center;
+}
+.list{ text-align: center;}
