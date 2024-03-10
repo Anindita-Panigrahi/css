@@ -1,0 +1,55 @@
+/* .click{
+    display: flex;
+    text-align: left;
+    font-weight: bold;
+    flex-direction: column;
+   
+} */
+.button{
+    justify-content: space-around;
+    background-color: blue;
+    width: 200px;
+    height: 40px;
+}
+.button:active {
+    border: none;
+    
+    color: white;
+    transform: scale(0.5);
+    
+}
+.hoover1{
+    width: 200px;
+    height: 40px;
+    justify-content:space-around;
+
+}
+.hoover2{
+    width: 200px;
+    height: 40px;
+}
+.hover1:hover{
+    background-color: rgb(170, 170, 216);
+    transition-duration: 2s;
+}
+.hover2:hover{
+    background-color: rgb(41, 41, 137);
+    transition-duration: 3s;
+}
+.hover3:hover{
+    background-color: rgb(170, 170, 216);
+    transform:translate(+10px,+10px);
+    width: 200px;
+    height: 40px;
+}
+
+.one{
+    margin: 60px;
+    
+}
+.two{
+    margin: 60px;
+}
+.three{
+    margin: 60px;
+}
