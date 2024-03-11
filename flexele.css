@@ -1,0 +1,27 @@
+.container{
+    height: 70vh;
+    width: 100%;
+    background-color: grey;
+    display: flex;
+    /* flex-direction: column-reverse; */
+    flex-wrap: nowrap;
+    /* justify-content: space-evenly; */
+
+}
+.small{
+    height: 100px;
+    width: 100px;
+}
+.div1{
+    background-color: red;
+    
+}
+.div2{background-color: magenta;
+    /* order: -1; */
+}
+.div3{
+    background-color: cadetblue;
+}
+.div4{
+    background-color: teal;
+}
